@@ -37,7 +37,7 @@ const TestimonialsSection = () => {
       achievement: "Dependent with £2000 Scholarship"
     },
     {
-      name: "Samir Bhusa",
+      name: "Samir Bhusal",
       destination: "Dakota State University, USA",
       course: "Masters in Information Science",
       rating: 5,
