@@ -33,7 +33,7 @@ const HeroSection = () => {
             <Button 
               variant="outline" 
               size="lg"
-              className="border-2 border-blue-600 text-blue-600 px-8 py-6 text-lg font-semibold rounded-full transition-all duration-300"
+              className="border-2 border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary px-8 py-6 text-lg font-semibold rounded-full transition-all duration-300"
             >
               View Success Stories
             </Button>
