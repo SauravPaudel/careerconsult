@@ -20,7 +20,7 @@ const HeroSection = () => {
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-primary-foreground/90 max-w-3xl mx-auto leading-relaxed">
             Transform your future with expert guidance to Australia, USA, UK & New Zealand. 
-            100% visa success rate • 1000+ successful students • Premium university partnerships
+            100% visa success rate • 500+ successful students • Premium university partnerships
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
@@ -46,7 +46,7 @@ const HeroSection = () => {
               <div className="text-sm text-primary-foreground/80">Visa Success Rate</div>
             </div>
             <div className="bg-primary-foreground/10 backdrop-blur-sm rounded-lg p-4">
-              <div className="text-3xl font-bold text-accent">1000+</div>
+              <div className="text-3xl font-bold text-accent">500+</div>
               <div className="text-sm text-primary-foreground/80">Happy Students</div>
             </div>
             <div className="bg-primary-foreground/10 backdrop-blur-sm rounded-lg p-4">

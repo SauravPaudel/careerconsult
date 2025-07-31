@@ -5,52 +5,52 @@ import { Star, Quote } from "lucide-react";
 const TestimonialsSection = () => {
   const testimonials = [
     {
-      name: "Priya Sharma",
-      destination: "University of Melbourne, Australia",
-      course: "Master's in Engineering",
+      name: "Dhiren Basnt",
+      destination: "Charles Drawin University, Australia",
+      course: "Master's of Professional Accounting",
       rating: 5,
-      text: "Career Consult made my dream of studying in Australia a reality. Their guidance through every step, from university selection to visa application, was exceptional. I'm now pursuing my Master's at Melbourne University with a 50% scholarship!",
-      achievement: "50% Scholarship Recipient"
+      text: "Career Consult made my dream of studying in Australia a reality. Their guidance through every step, from university selection to visa application, was exceptional. I'm now pursuing my Master's at CDU a 30% scholarship!",
+      achievement: "30% Scholarship Recipient"
     },
     {
-      name: "Rajesh Thapa",
-      destination: "Harvard University, USA",
-      course: "MBA Program",
+      name: "Sumit Paudel",
+      destination: "Charles Darwin University, Australia",
+      course: "Master of Information System",
       rating: 5,
-      text: "I never thought I could get into an Ivy League university. The team at Career Consult believed in me and helped me craft the perfect application. Their IELTS coaching was also top-notch - scored 8.0 bands!",
+      text: "I never thought I could get into an CDU. The team at Career Consult believed in me and helped me craft the perfect application. Their IELTS coaching was also top-notch - scored 8.0 bands!",
       achievement: "IELTS 8.0 Bands"
     },
     {
-      name: "Sneha Gurung",
-      destination: "University of Oxford, UK",
-      course: "Master's in Psychology",
+      name: "Ashmita Basnet",
+      destination: "University of West Loandon, UK",
+      course: "Bachelor of Hospitality Management",
       rating: 5,
-      text: "The personalized counseling approach at Career Consult is what sets them apart. They understood my goals and matched me with the perfect university. Now I'm studying at Oxford - it feels like a dream come true!",
-      achievement: "Oxford Graduate Student"
+      text: "The personalized counseling approach at Career Consult is what sets them apart. They understood my goals and matched me with the perfect university. Now I'm studying at UWS - it feels like a dream come true!",
+      achievement: "£2000 Scholarship"
     },
     {
-      name: "Amit Rai",
-      destination: "University of Auckland, New Zealand",
-      course: "Computer Science",
+      name: "Prasoona Khadka",
+      destination: "University of Derby, UK",
+      course: "Masters of Research in Leadership and Management with Pathways",
       rating: 5,
-      text: "From day one, Career Consult was professional, supportive, and incredibly knowledgeable. They handled all my documentation and visa process seamlessly. I'm now working part-time while studying in Auckland!",
-      achievement: "Part-time Work Rights"
+      text: "From day one, Career Consult was professional, supportive, and incredibly knowledgeable. They handled all my documentation and visa process seamlessly. I'm now working part-time while studying in London!",
+      achievement: "Dependent with £2000 Scholarship"
     },
     {
-      name: "Binita Khadka",
-      destination: "University of Sydney, Australia",
-      course: "Master's in Business",
+      name: "Samir Bhusa",
+      destination: "Dakota State University, USA",
+      course: "Masters in Information Science",
       rating: 5,
-      text: "The team's expertise in scholarship applications is amazing. They helped me secure a full tuition waiver for my Master's program. I highly recommend Career Consult to anyone planning to study abroad.",
-      achievement: "Full Tuition Waiver"
+      text: "The team's expertise in scholarship applications is amazing. They helped me secure a Assistantship for my Master's program. I highly recommend Career Consult to anyone planning to study abroad.",
+      achievement: "Assistantship"
     },
     {
-      name: "Deepak Maharjan",
-      destination: "University of Toronto, Canada",
-      course: "Master's in Data Science",
+      name: "Aakash Chauhan",
+      destination: "University of West London, UK",
+      course: "BSc (Hons) Computer Science",
       rating: 5,
-      text: "Career Consult's PTE coaching was excellent. I scored 85+ in my first attempt. Their university application guidance was thorough and professional. Now I'm living my dream in Toronto!",
-      achievement: "PTE 85+ Score"
+      text: "Career Consult's PTE coaching was excellent. I scored 85+ in my first attempt. Their university application guidance was thorough and professional. Now I'm living my dream in London!",
+      achievement: "£2000 Scholarship"
     }
   ];
 

@@ -38,7 +38,7 @@ const TestPrepSection = () => {
         "Writing task correction and improvement",
         "Listening and reading technique mastery"
       ],
-      price: "NPR 15,000",
+      price: "NPR 5,000",
       popular: true
     },
     {
@@ -52,7 +52,7 @@ const TestPrepSection = () => {
         "Integrated skills training",
         "Score prediction and analysis"
       ],
-      price: "NPR 18,000",
+      price: "NPR 5,000",
       popular: false
     }
   ];
