@@ -40,9 +40,11 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex items-center">
-            <div className="text-2xl font-bold text-primary">
-              Career<span className="text-accent">Consult</span>
-            </div>
+            <img 
+              src="/lovable-uploads/6beed274-06b4-4359-b9e3-6fac6ae518b0.png" 
+              alt="Career Consult - Dedicate to Excellence" 
+              className="h-10 w-auto md:h-12 lg:h-14"
+            />
           </div>
 
           {/* Desktop Navigation */}

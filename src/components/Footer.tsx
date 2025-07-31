@@ -8,7 +8,11 @@ const Footer = () => {
           {/* Company Info */}
           <div>
             <div className="mb-6">
-              <h3 className="text-2xl font-bold text-accent mb-2">Career Consult</h3>
+              <img 
+                src="/lovable-uploads/6beed274-06b4-4359-b9e3-6fac6ae518b0.png" 
+                alt="Career Consult - Dedicate to Excellence" 
+                className="h-16 w-auto mb-4 filter brightness-0 invert"
+              />
               <p className="text-background/80 mb-4">
                 Nepal's most trusted education consultancy with 100% visa success rate. 
                 Transforming dreams into reality since 2015.
