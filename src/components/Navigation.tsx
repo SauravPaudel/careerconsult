@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { Menu, X, Phone, Mail } from "lucide-react";
+import { Menu, X } from "lucide-react";
 import { useState } from "react";
 
 const Navigation = () => {
@@ -16,25 +16,6 @@ const Navigation = () => {
 
   return (
     <nav className="bg-background/95 backdrop-blur-sm shadow-lg fixed w-full top-0 z-50 border-b border-border">
-      {/* Top Bar */}
-      <div className="bg-primary text-primary-foreground py-2">
-        <div className="container mx-auto px-4 flex justify-between items-center text-sm">
-          <div className="flex items-center gap-6">
-            <div className="flex items-center gap-2">
-              <Phone className="w-4 h-4" />
-              <span>+977-1-4782010</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <Mail className="w-4 h-4" />
-              <span>info@careerconsult.com.np</span>
-            </div>
-          </div>
-          <div className="hidden md:block">
-            <span className="font-semibold">Trusted by 1000+ Students Since 2015</span>
-          </div>
-        </div>
-      </div>
-
       {/* Main Navigation */}
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
