@@ -47,7 +47,7 @@ const ContactSection = () => {
                       Phone Number *
                     </label>
                     <Input 
-                      placeholder="+977 9812345678"
+                      placeholder="9867905743"
                       className="border-2 border-border focus:border-primary"
                     />
                   </div>
@@ -130,15 +130,15 @@ const ContactSection = () => {
                   <div>
                     <p className="font-semibold text-card-foreground">Career Consult Education</p>
                     <p className="text-muted-foreground">New Baneshwor, Kathmandu</p>
-                    <p className="text-muted-foreground">Near Cosmos Bank, 2nd Floor</p>
+                    <p className="text-muted-foreground">Opposite of N.B Center</p>
                   </div>
                 </div>
                 
                 <div className="flex items-center gap-3">
                   <Phone className="w-5 h-5 text-primary" />
                   <div>
-                    <p className="font-semibold text-card-foreground">+977-1-4782010</p>
-                    <p className="text-muted-foreground">+977-9851234567</p>
+                    <p className="font-semibold text-card-foreground">015913936</p>
+                    <p className="text-muted-foreground">9867905743</p>
                   </div>
                 </div>
                 
@@ -192,7 +192,7 @@ const ContactSection = () => {
               <p className="mb-3 text-accent-foreground/90">
                 Need urgent assistance? Our emergency helpline is available 24/7 for current students.
               </p>
-              <p className="font-semibold">Emergency Hotline: +977-9801234567</p>
+              <p className="font-semibold">Emergency Hotline: 9867905743</p>
             </div>
           </div>
         </div>
